@@ -42,7 +42,7 @@ export default function App() {
               <span>Call Us</span>
             </a>
             <a
-              href="mailto:loans@crediindia.com"
+              href="mailto:bankloans.crediindia@gmail.com"
               className="bg-blue-900 text-white font-medium px-8 py-4 rounded-full flex items-center space-x-2 hover:bg-blue-800 transition-all"
             >
               <EnvelopeIcon className="w-6 h-6" />

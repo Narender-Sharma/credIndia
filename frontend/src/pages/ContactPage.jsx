@@ -35,12 +35,12 @@ const ContactPage = () => {
             <div className="flex flex-col items-center">
               <EnvelopeIcon className="h-8 w-8 mb-2 text-white" />
               <h3 className="font-bold text-lg mb-1">Email</h3>
-              <p className="text-sm">loans@crediindia.com</p>
+              <p className="text-sm">bankloans.crediindia@gmail.com</p>
             </div>
             <div className="flex flex-col items-center">
               <PhoneIcon className="h-8 w-8 mb-2 text-white" />
               <h3 className="font-bold text-lg mb-1">Phone Number</h3>
-              <p className="text-sm">+91-9718954990</p>
+              <p className="text-sm">+91-8377003037</p>
             </div>
             <div className="flex flex-col items-center">
               <MapPinIcon className="h-8 w-8 mb-2 text-white" />
